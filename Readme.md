@@ -15,7 +15,7 @@ Features
 Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/real-estate-management.git
+    git clone https://github.com/Jaryaldikshant/realEstate.git
 cd real-estate-management
 
 
