@@ -1,0 +1,90 @@
+# Node modules
+node_modules/
+client/node_modules/
+api/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+api/.env
+client/.env
+
+# React build (if applicable)
+client/build/
+client/dist/
+
+# Firebase
+firebase-debug.log
+.firebase.json
+
+# Mac system files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# SASS cache
+.sass-cache/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Serverless directories
+.serverless/
+
+# Optional npm cache directory
+.npm/
+
+# Debugging files
+debug/
+
+# Output of 'npm pack'
+*.tgz
+
+# Parcel-bundler cache (optional)
+.cache/
+
+# Optional eslint cache
+.eslintcache
+
+# Storybook files
+storybook-static/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Misc
+*.log
+*.lock
+package-lock.json
+
+# Local environment settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Firebase hosting file
+.firebase.json
+
+# Firebase local emulators
+firebase-debug.log
+
+# Service account keys
+serviceAccountKey.json
